@@ -1,7 +1,14 @@
 html {
   box-sizing: border-box;
+  font-family: "Crimson Text", serif;
+  font-size: 1.125rem
+
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+/*
+font-family: "Crimson Text", serif;
+*/
