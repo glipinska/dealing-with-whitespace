@@ -33,3 +33,7 @@ blockquote {
   font-size: 1.125rem;
   color: #555;
 }
+
+.quote {
+  color: #999;
+}
