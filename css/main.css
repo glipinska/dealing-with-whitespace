@@ -37,3 +37,33 @@ blockquote {
 .quote {
   color: #999;
 }
+
+article {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
+
+article header {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
+
+article h1 {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
+
+article header p {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
+
+article p {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
+
+article ol {
+  padding-left : 1rem;
+  padding-right: 1rem;
+}
