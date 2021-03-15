@@ -18,8 +18,13 @@ h1 {
   font-weight: normal;
 }
 
+blockquote {
+  font-size: 1.125rem;
+  color: #555;
+}
+
 header p {
-  font-style: italic
+  font-style: italic;
 }
 
 body {
